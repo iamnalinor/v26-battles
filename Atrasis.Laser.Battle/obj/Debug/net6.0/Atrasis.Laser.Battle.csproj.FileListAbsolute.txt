@@ -1,0 +1,15 @@
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\bin\Debug\net6.0\Atrasis.Laser.Battle.exe
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\bin\Debug\net6.0\Atrasis.Laser.Battle.deps.json
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\bin\Debug\net6.0\Atrasis.Laser.Battle.runtimeconfig.json
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\bin\Debug\net6.0\Atrasis.Laser.Battle.dll
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\bin\Debug\net6.0\ref\Atrasis.Laser.Battle.dll
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\bin\Debug\net6.0\Atrasis.Laser.Battle.pdb
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.csproj.AssemblyReference.cache
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.AssemblyInfoInputs.cache
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.AssemblyInfo.cs
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.csproj.CoreCompileInputs.cache
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.dll
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\ref\Atrasis.Laser.Battle.dll
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.pdb
+C:\Users\Xeon\source\repos\Atrasis.Laser.Battle\Atrasis.Laser.Battle\obj\Debug\net6.0\Atrasis.Laser.Battle.genruntimeconfig.cache
