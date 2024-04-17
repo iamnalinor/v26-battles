@@ -14,5 +14,3 @@ Clients (by ClassicBrawlTeam):
 - [v26.184](https://mega.nz/file/XeBTXCBB#BN6B9-FcMqn19w6SkgxVgShFwWx1Qb55tgydIL1oLDI)
 
 (with popup - with watermark at start like "Server created by classic brawl")
-
-# XEON SUCKS
